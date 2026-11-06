@@ -6,14 +6,14 @@ I'm an MSc student in **Artificial Intelligence** at the Faculty of Engineering 
 - **Before:** two internships at LTPlabs. I built production-planning optimization systems (Python, PuLP, Gurobi), multi-page Power BI dashboards for clients, and deployment pipelines with Docker, CI/CD and Azure.
 - **Interests:** LLM agents and RAG, NLP, learning from data streams, MLOps.
 
-### Featured projects
+### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [Political comment intent classification](https://github.com/antonioromao03/PLN-Text_Classification) | Classifies ~70k social media comments into 5 communicative intents; macro-F1 from 0.38 to 0.55 with classical NLP, then 0.75 with fine-tuned BERTweet | scikit-learn, NLTK, Hugging Face, PyTorch, LoRA |
 | [Online Extra Trees for data streams](https://github.com/antonioromao03/DSM-Online_Extra_Trees_Regressor) | Benchmarks streaming tree ensembles under concept drift, tracking accuracy, speed and memory | River, pandas, NumPy |
 
-### In progress
+### In Progress
 
 | Project | What it does | Stack |
 |---|---|---|
