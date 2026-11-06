@@ -13,6 +13,13 @@ I'm an MSc student in **Artificial Intelligence** at the Faculty of Engineering 
 | [Political comment intent classification](https://github.com/antonioromao03/PLN-Text_Classification) | Classifies ~70k social media comments into 5 communicative intents; macro-F1 from 0.38 to 0.55 with classical NLP, then 0.75 with fine-tuned BERTweet | scikit-learn, NLTK, Hugging Face, PyTorch, LoRA |
 | [Online Extra Trees for data streams](https://github.com/antonioromao03/DSM-Online_Extra_Trees_Regressor) | Benchmarks streaming tree ensembles under concept drift, tracking accuracy, speed and memory | River, pandas, NumPy |
 
+### In progress
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [Rumorómetro](https://github.com/antonioromao03/rumorometro) | Tracks transfer, loan and contract-renewal rumours about Benfica, FC Porto, Sporting CP and SC Braga from A Bola, O Jogo and Record, and scores how often each newspaper gets them right. Each pipeline stage is evaluated on a hand-labelled gold set | Python, LLM structured extraction, entity linking, GitHub Actions | Scaffold done; v1 planned before the January 2027 transfer window |
+| [Pedrógão Grande wildfire, 2017](https://github.com/antonioromao03/dlag-pedrogao) | Deep learning on Sentinel-2 satellite imagery of the June 2017 wildfire in central Portugal (course project, AGH University of Krakow) | PyTorch, rasterio, GeoPandas, QGIS | Data collected and checked; choosing between burnt-area segmentation, burn-severity mapping and wildfire susceptibility mapping |
+
 ### Tech
 
 **ML / AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · LLMs, RAG and agents
