@@ -17,6 +17,7 @@ I'm an MSc student in **Artificial Intelligence** at the Faculty of Engineering 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Canon & Order](https://github.com/antonioromao03/canon-and-order)<br>*schema done, pipeline next* | Builds cited, release-ordered timelines of everything official in a screen universe, from films to shorts and promos. An LLM makes the judgment calls, tested rules own dates and order, scored on a hand-verified gold set | Python, LLMs, Pydantic, FastAPI, Postgres |
 | [Pedrógão Grande wildfire](https://github.com/antonioromao03/dlag-pedrogao)<br>*data ready, model next* | Deep learning on Sentinel-2 satellite imagery of the 2017 wildfire in central Portugal (course project, AGH Kraków) | PyTorch, rasterio, GeoPandas, QGIS |
 
 ### Tech
