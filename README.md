@@ -15,10 +15,10 @@ I'm an MSc student in **Artificial Intelligence** at the Faculty of Engineering 
 
 ### In progress
 
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| [Rumorómetro](https://github.com/antonioromao03/rumorometro) | Tracks transfer, loan and contract-renewal rumours about Benfica, FC Porto, Sporting CP and SC Braga from A Bola, O Jogo and Record, and scores how often each newspaper gets them right. Each pipeline stage is evaluated on a hand-labelled gold set | Python, LLM structured extraction, entity linking, GitHub Actions | Scaffold done; v1 planned before the January 2027 transfer window |
-| [Pedrógão Grande wildfire, 2017](https://github.com/antonioromao03/dlag-pedrogao) | Deep learning on Sentinel-2 satellite imagery of the June 2017 wildfire in central Portugal (course project, AGH University of Krakow) | PyTorch, rasterio, GeoPandas, QGIS | Data collected and checked; choosing between burnt-area segmentation, burn-severity mapping and wildfire susceptibility mapping |
+| Project | What it does | Stack |
+|---|---|---|
+| [Rumorómetro](https://github.com/antonioromao03/rumorometro)<br>*v1 due Dec 2026* | Tracks transfer and renewal rumours about Benfica, FC Porto, Sporting and Braga, and scores how often each newspaper gets them right | Python, LLM extraction, entity linking, GitHub Actions |
+| [Pedrógão Grande wildfire](https://github.com/antonioromao03/dlag-pedrogao)<br>*data ready, model next* | Deep learning on Sentinel-2 satellite imagery of the 2017 wildfire in central Portugal (course project, AGH Kraków) | PyTorch, rasterio, GeoPandas, QGIS |
 
 ### Tech
 
